@@ -1,11 +1,13 @@
 # Maven Space Challenge
  A dataviz competition
 
-![dataviz sreenshot](https://github.com/AntonelloManenti/MavenSpaceChallenge/blob/main/media/Maven.PNG)
+-----------------------------
 
 Maven Analytics proposed a data visualization competition based on a dataset containing all space missions in human history. 🚀
 
 Idea: what would be an alien dashboard that monitors extraterrestrial activities of humans? 🛸👽
+
+![dataviz sreenshot](https://github.com/AntonelloManenti/MavenSpaceChallenge/blob/main/media/Maven_02.PNG)
 
 ## Game play
 Short presentation of the dashboard on [Youtube].
