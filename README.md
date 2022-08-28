@@ -5,12 +5,11 @@
 
 Maven Analytics proposed a data visualization competition based on a dataset containing all space missions in human history. 🚀
 
-Idea: 🛸 👽
-what would be an alien dashboard that monitors extraterrestrial activities of humans?
-
+Idea: what would be an alien dashboard that monitors extraterrestrial activities of humans? 🛸👽
+ 
 
 ## Links
-[Notebook on Colab] | [Interactive dashboard in Tableau] | [Challenge information & data source] | [Game play on youtube]
+[Game play on youtube] | [Notebook on Colab] | [Interactive dashboard in Tableau] | [Challenge information & data source]
 
 ## Tools
 OpenRefine - Python - Tableau
